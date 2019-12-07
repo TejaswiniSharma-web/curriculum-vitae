@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>Tejaswini Sharma Resume</title>
   </head>
-  <body>
+  <body style="background-color: #fbdff0;">
     <p style ="text-align:right"><i>Name:Tejaswini</i><br>
     <p style ="text-align:right">Phone Number:9686705497</p>
     <p style ="text-align:right"><u>Email id:tejaswinisharma1991@gmail.com</u></p>
@@ -24,13 +24,13 @@
       <li>User Requirement gathering</li>
 
     </ul>
-      </<hr>
+  </hr>
       <hr>
       <ul>
         <li>Education:</li>
         <p>Diploma graduate in cs in nov 2016 passed out</p>
       </ul>
-      </<hr>
+    </hr>
       <hr>
 
       <h5>Work Experience</h5>
